@@ -1,4 +1,4 @@
-import homephoto from "../assets/Woman.jpg"
+import homephoto from "../assets/woman.jpg"
 import HomeContent from "./HomeContent"
 import joshprofile from "../assets/artificial.jpg"
 const Home = () =>{

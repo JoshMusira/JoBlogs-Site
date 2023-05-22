@@ -10,4 +10,4 @@ const Blog = ({blogId, title, body}) =>{
         </Link>
     )
 }
-export default Blog
+export default Blog;
